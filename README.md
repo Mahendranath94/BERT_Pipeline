@@ -4,7 +4,7 @@
 
 Created a specialized annotated dataset for supervised learning and used the annotated dataset for the fine-tuning the BERT model, focusing on a regression task by performing extractive text summarization of financial data.
 
-## Run Locally
+## Run Locally (It is preferred to run on Google colab with GPU.)
 
 Clone the project (or download manually)
 
@@ -19,5 +19,3 @@ Run _BERT-TS.ipynb_ file
 ## Follow the below files structure:
 ![App Screenshot](https://github.com/Mahendranath94/BERT_Pipeline/blob/main/image.png?raw=true)
 
-
-## It is preferred to run on Google colab with GPU.
