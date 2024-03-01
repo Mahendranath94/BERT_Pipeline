@@ -11,9 +11,9 @@ Clone the project (or download manually)
   git clone https://github.com/Mahendranath94/BERT_Pipeline
 ```
 
-Go to the project directory, place all the annual reports in SourceData folder company wise (refer to the files structure)
+Go to the project directory, place all the annual reports in `SourceData` folder company wise (refer to the files structure)
 
-Run `_BERT-TS.ipynb_` file
+Run `BERT-TS.ipynb` file
 
 ## Follow the below files structure:
 ![App Screenshot](https://github.com/Mahendranath94/BERT_Pipeline/blob/main/image.png?raw=true)
