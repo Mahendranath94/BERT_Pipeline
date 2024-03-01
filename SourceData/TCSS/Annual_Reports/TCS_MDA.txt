@@ -1,0 +1,2437 @@
+Management
+Discussion and
+Analysis
+Overview of the Industry
+Global GDP in FY 2023 was affected by the Russia-
+Ukraine war
+and resultant dislocations in supply chains, leading
+to surging
+food and energy inflation. Central banks raised
+interest rates
+sharply in response. As a result, the global GDP is
+estimated to
+have grown at a more subdued 3.4% in 2022, versus
+5.9% in the
+prior year1.
+Global technology spending on Enterprise software and
+IT
+services crossed the $2 trillion2 mark in 2022,
+growing 5.5% YoY.
+IT services grew 3.5% YoY, to $1,250 billion. This
+growth was led
+by accelerated cloud adoption, preference for
+external expertise
+due to severe talent scarcity, and expanding scope of
+digital
+transformation to cover more back-office operational
+areas.
+The global IT services industry continues to be a
+highly
+fragmented one, with even the largest provider having
+a mid-
+single digit market share. TCS is among the largest
+IT services
+providers globally, with a market share of 2.2%, and
+has
+outperformed the market, growing significantly higher
+than
+market growth over the last decade.
+World Economic Outlook, IMF, April 2023
+Gartner
+3
+GRI 2-22
+1
+2
+Global Spend on IT Services ($ Bn)
+USD Billion
+1600
+800
+400
+200
+100
+50
+10
+0
+1.4x1,250
+2.4x27.9
+878
+11.6
+TCS Revenue $ Bn
+FY 2013
+FY 2023
+The outperformance may be attributed to market share
+gains
+resulting from TCS’ longer-term, purpose-driven
+partnerships
+with its customers, its agile organization structure,
+and a very
+stable management team; its investments in organic
+talent
+development, research and innovation, intellectual
+property and
+in building newer capabilities that have helped
+expand wallet
+share with clients; and better execution resulting in
+greater
+customer satisfaction.
+TCS’ Business
+An Overview
+TCS is an IT services, consulting and business
+solutions
+organization partnering many of the world’s largest
+businesses
+in their transformational journeys for the last 55
+years. It has
+a global presence, deep domain expertise in multiple
+industry
+verticals and a complete portfolio of offerings –
+grouped under
+consulting and service integration, application
+services, digital
+transformation services, cloud services, engineering
+services,
+cognitive business operations, and products and
+platforms –
+targeting every C-suite stakeholder.
+The company leverages all these capabilities and its
+deep
+contextual knowledge of its customers’ businesses to
+craft
+unique, high quality, high impact solutions designed
+to deliver
+differentiated business outcomes. These solutions are
+delivered
+using its Secure Borderless Workspaces™ (SBWS™)
+operating
+model which enables a highly distributed, Location
+Independent
+Agile™ delivery.
+TCS geographic footprint covers North America, Latin
+America,
+the United Kingdom, Continental Europe, Asia Pacific,
+India and
+Middle-East Africa.
+TCS considers industry verticals as its primary go-
+to-market
+business segments. The key vertical clusters are:
+Banking,
+Financial Services and Insurance (BFSI),
+Communication, Media
+and Technology (CMT), Retail and Consumer Business,
+Life
+Sciences and Healthcare, Manufacturing and Others.
+Strategy for Sustainable Growth3
+Customer-centricity is at the heart of TCS’ strategy,
+organization structure and investment decisions. TCS’
+customer-centric worldview helps spot trends early,
+embrace
+business opportunities by making the right
+investments and
+mitigating risks while discharging its social and
+environmental
+responsibilities.
+TCS has been broadening and deepening customer
+relationships
+by continually looking for new opportunities and
+newer areas in
+their businesses to add value, proactively investing
+in building
+newer capabilities, reskilling its workforce and
+launching newer
+services, solutions, products and platforms to
+address those
+opportunities.
+In the last few years, the company has been using its
+investments in research and innovation, its
+intellectual property
+and deep contextual knowledge of the customer’s
+business
+and technology landscape to proactively pitch ideas
+and
+solutions designed to improve the client’s topline
+and help drive
+competitive differentiation.
+These growth and transformation (G&T) engagements are
+higher value engagements catering to the needs of a
+broader
+set of stakeholders in the client organization,
+enjoying greater
+visibility within the CXO suite and more closely
+aligned with
+their business strategy. An expanding share of this
+business is
+helping drive a steady increase in the scope and
+scale of services
+consumed year after year, and an expansion of TCS’
+share of
+wallet, as evidenced by the client metrics.
+Over time, this strategy has resulted in deep and
+enduring
+customer relationships, a vibrant and engaged
+workforce,
+industry-leading profitability, a steady expansion of
+the
+addressable market, and a proven track record in
+delivering
+longer term stakeholder value.
+Enabling Investments
+TCS pioneered4 the use of the word ‘digital’ to
+describe the
+new family of technologies that emerged in the last
+decade.
+Quick to recognize the potential of cloud, the
+company made
+investments ahead of time in launching new platform-
+based
+business models as far back as in 20095, reskilling
+the workforce,
+research and innovation, building collaborative
+workspaces
+and innovation centers, intellectual property, and
+alliances and
+partnerships. Those early investments have given TCS
+a head
+start in participating in its customers’ G&T
+journeys.
+The company continues to invest in co-innovation
+hubs,
+launching TCS Pace Ports™ in major markets. TCS teams
+use
+these physical spaces to work with academic and
+start-up
+partners, ideate jointly with client teams and
+rapidly build
+prototypes. The Pace Ports at Pittsburgh in the US,
+in the
+Carnegie Mellon University campus, and the other in
+Toronto,
+Canada, were formally inaugurated this year.
+Including the ones
+in Tokyo, New York and Amsterdam, the company has
+five Pace
+Ports in all.
+The company launched joint innovation hubs as well,
+using
+the TCS Pace™ framework. TCS and Boots launched an
+agile
+incubator called INNOVATE Powered by TCS Pace™, at
+Boots’
+Nottingham headquarters in the UK. TCS forged a major
+applied
+engineering and research partnership with The
+National
+Robotarium, UK’s largest and most advanced AI and
+robotics
+research centre, located at Heriot-Watt University’s
+Edinburgh
+campus.
+TCS continued to expand and deepen its industry-
+leading
+portfolio of products and platforms, launching new
+variants
+within the ignio™ suite and building newer
+functionality and
+features in the TCS BaNCS™ suite, HOBS, TwinX,
+Mastercraft
+and Jile. TCS Omnistore™ now offers three more
+modules
+as part of its AI powered enterprise personalization
+- Unified
+and composable commerce, Enterprise personalization,
+and
+Marketing hub.
+TCS’ dedicated practice units around AWS, Microsoft
+Azure
+and Google Cloud Platform have been steadily
+investing in
+training, certifications, credentials and in building
+solutions and
+intellectual property on their respective hyperscaler
+stacks.
+In FY 2023, the company crossed the milestone of
+100,000
+hyperscaler-certified employees. By virtue of being
+one of their
+largest system integrator partners with deep domain
+expertise
+across multiple areas, TCS was the launch partner for
+many new
+solutions introduced by hyperscaler platforms during
+the year.
+The company has leveraged its deep domain knowledge
+across
+multiple industries to create an extensive catalog of
+over 100
+industry cloud offerings addressing the needs of
+clients across
+20 industries. The portfolio of TCS solutions
+available on public
+hyperscaler cloud platforms continued to expand. In
+FY 2023,
+TCS Dexam™, TCS DigiGov™, TCS Cognitive Plant
+Operations, TCS
+Mobility Cloud Suite and TCS ESG Integrator were
+added to the
+list of existing solutions like TCS Omnistore™, TCS
+MasterCraft™,
+5G Edge Suite, TwinX, TCS Clever Energy™, TCS IP2™
+and TCS
+Envirozone™.
+Strategic Responses to Opportunities and Threats
+Opportunity / Threat
+Macroeconomic
+uncertainty impacting
+decision making
+and prompting cost
+reduction initiatives
+4
+5
+•
+TCS Approach
+Proven track record in helping enterprises reduce
+their cost •
+of operations.
+•Proactive pitching of IT and business operating
+model
+transformations that not only deliver greater
+efficiency, but •
+also enhance enterprise agility, resilience and
+throughput.
+••
+Leveraging full services capability and deep client
+relationships to propose product-aligned operating
+models.
+•Use of TCS Cognix™ to accelerate operations
+•
+transformation, using over 600 pre-built automation
+components that infuse AI/ML and other technologies
+into
+IT and business processes to reduce human
+intervention,
+increase velocity and throughput.
+Outcomes
+Strong deal flow resulting in a
+robust order book that gives better
+visibility of medium-term growth.
+Market share gains in vendor
+consolidations.
+Efficiency gains helping fund
+client’s transformation programs in
+some instances.
+TCS Cognix recognized as a means
+of driving quicker realization of RoI
+and used by nearly 300 clients.
+Opportunity / Threat
+Greater interest in using
+technology to drive
+business growth and
+differentiation
+•
+•
+•
+Accelerated adoption of
+public cloud
+Greater acceptance of
+as-a-Service platforms
+TCS Approach
+Focused on developing contextual knowledge and
+applying •
+that for inside-out transformations.
+•
+Continued investments in research and innovation, TCS
+Pace Ports, and intellectual property (IP).
+•
+Dedicated practice with domain experts to bring
+together
+TCS’ differentiated capabilities from across the
+organization
+•
+to stitch together comprehensive solutions.
+•Proactive pitching of solutions to customers’ most
+pressing
+•
+business problems.
+•New brand tagline ‘Building on Belief’ to strengthen
+positioning as a growth and transformation partner.
+•
+Outcomes
+Expansion of addressable market.
+Growing share of G&T business
+adding to growth.
+Higher quality revenue, lending
+margin resilience.
+More deeply embedded in the
+client’s business.
+Engaging with a broader set of
+buyers in the client organization.
+•Higher visibility within C-Suites.
+Dedicated business units with end to end capabilities
+on
+each of the hyperscaler platforms.•Strong growth in
+cloud
+transformation revenues.
+•Continued investment by each of these units in
+skills,
+certifications, credentials, IP and accelerators.•Top
+tier partner to each of the
+hyperscalers.
+•Articulated the multi-horizon cloud transformation
+framework.••Made available TCS products and solutions
+on public
+clouds.Preferred partner to clients seeking
+to use cloud native capabilities
+to power their growth and
+transformation.
+•Over 110,000 hyperscaler-certified
+employees.
+Stronger win-win partnerships.
+•
+•
+•
+Strengthened alliances and launched new offerings
+around •
+the popular and new SaaS products.
+•
+Helped ISV* clients upgrade their products to launch
+new
+•
+SaaS versions.
+•
+Partnering with product manufacturers to help launch
+innovative as-a-Service offerings using TCS Bringing
+Life to
+Things IoT framework.
+Expansion of addressable market.
+Strong growth in SaaS sales.
+Platforms drive stickier
+relationships, with long term
+revenue visibility.
+TCS IP:
+•Promoted SaaS versions of in-house product
+portfolio, now
+available on hyperscaler platforms.
+•Used IP portfolio to launch new platforms that
+bundle IP
+and shared services on the cloud.
+* Independent Software Vendor
+Talent Management
+TCS aims to attract, develop, motivate and retain
+diverse talent,
+that is critical for its competitive differentiation
+and continued
+success. The company’s talent management strategy
+seeks
+to maximize the potential of every employee by
+creating a
+purpose-driven, inclusive, stimulating, and rewarding
+work
+environment, delivering outstanding employee
+experience,
+while fueling business growth. TCS strives to create
+a vibrant
+workplace and an engaged workforce by encouraging
+four
+behaviors: follow your passion, stay hungry, commit
+to lifelong
+learning and thrive together.
+In FY 2023, TCS made a net addition of 22,600
+employees
+globally, taking the total employee base to 614,795,
+representing
+150 nationalities.
+Integrated Annual Report 2022-23
+After two years of remote working, TCS initiated a
+Return
+to Office initiative to better integrate and
+acculturate new
+recruits, deepen employee engagement levels, drive
+purposeful
+engagement and extend the spirit of #OneTCS. As an
+outcome,
+50% of employees started working from office for two
+or more
+days in a week.
+Industry-First Initiatives
+Intensified focus on equipping the company’s mid-
+level
+•
+managers with market relevant skills by providing the
+right learning and certification opportunities to
+help them
+succeed in a world of new technologies. More than 90%
+of
+the target employee pool is participating in this
+strategic
+program and close to 60% is certified in various
+market
+relevant skills
+Xcelerate - The industry recognized Talent
+Transformation
+platform for employees, to capture employees’
+aspirations
+and mapping them to future opportunities. Aspirations
+of nearly 2/3rd of TCSers were captured, with ~100K
+progressing towards their aspired roles.
+•Engagement with Purpose – A platform for employees
+to live TCS’ values through collective community
+service,
+enhance organizational belonging and self-
+actualization.
+More than 400,000 employees were engaged as part of
+the
+initiative.
+Talent Acquisition
+In FY 2023, TCS responded with agility to the
+changing supply
+side dynamics which saw the unprecedented industry-
+wide
+employee churn peaking mid-year, then falling sharply
+in
+the latter half. This entailed recalibrating talent
+acquisition
+dynamically to fully utilize the additional capacity
+built up in the
+prior year.
+The company remains the preferred employer and one of
+the
+largest job creators in IT services in several major
+markets, for
+both freshers and lateral hires. In addition to about
+44,000 fresh
+engineers, TCS onboarded its highest ever number of
+lateral
+recruits during the year. It also pivoted from a
+virtual-only
+mode to a hybrid model of virtual and in-person
+recruitment
+focused on attracting the right talent, creating
+better employee
+experiences, and building the TCS brand.
+Key Achievements:
+•
+TCS National Qualifier Test: Over 618,000 students
+from
+more than 4,200 institutes in India competed for the
+opportunity to work for TCS.
+•Hiring from India’s top B-schools, including the top
+3 IIMs,
+continues with internship and placement offers as
+part of
+the strategic leadership program.
+•TCS CareersNext: TCS’ virtual career fair platform
+was
+leveraged for conducting 3 virtual hiring drives in
+this
+year, yielding over 32,000 registrations and 8,000
+job
+applications.
+•TCS HackQuest, the company’s flagship ethical
+hacking
+competition now in its 7th season saw over 58,000
+registrations from more than 3,000 institutes across
+India.
+•Programs to improve diversity in hiring produced
+encouraging outcomes. Rebegin, an initiative for
+experienced women professionals re-entering the
+workforce after a break saw nearly 14,000 job
+applications.
+Over 200 job applications were received from people
+with
+disabilities.
+•
+TCS Sigma launched in FY 2023 to provide career
+opportunities for graduates and postgraduates in
+pharmacy
+in the company’s life sciences business.
+Integrated Annual Report 2022-23
+•
+TCS Academic Interface Program continued to engage
+with faculty and students through focus group
+connects,
+workshops, faculty development programs and other
+campus outreach activities. In FY 2023, TCS engaged
+with
+over 216,000 students and about 17,000 faculty
+members
+in nearly 1,500 partner academic institutes across
+the
+world. More than 2,000 interns were engaged during
+the
+year.
+Culture and Diversity
+TCS is an equal opportunity employer and has a well-
+defined and
+progressive Diversity, Equity and Inclusion (DEI)
+policy embracing
+all diversity parameters which includes gender,
+marital status,
+religion, race/caste, colour, age, ancestry,
+nationality, language,
+ethnic origin, socio-economic status, physical
+appearance,
+disability, sexual orientation, gender identity and/
+or expression
+and any other category protected by applicable law.
+TCS recognizes that a diverse and inclusive workforce
+is
+necessary to drive innovation, foster creativity, and
+guide
+business strategies. Its disclosures around DEI
+earned it a place
+in the Bloomberg Gender-Equality Index (GEI) once
+again. Other
+highlights include:
+•iExcel: TCS’ flagship executive leadership
+development
+program for women completed 22 editions, benefiting
+1,450 women leaders.
+•The Diversity Maturity Matrix: An in-house diversity
+measurement tool that aims at identifying gaps and
+assessing an organization’s maturity in DEI.
+•Client engagement: Allies of Diversity is a program
+where
+senior leadership from client organizations are
+invited to
+share diversity best practices. Engagement with 75 C-
+Suite
+leaders with 63 different client organizations has
+been
+completed till date. An Allies of Diversity conclave
+was
+organized in London to provide a forum for DEI
+leaders
+to share organizational learnings. DEI focused
+learning
+programs were conducted for 4 client organizations.
+•The Workplace Coach: A 75-hour internal coach
+certification program enabling individuals to become
+coaches. This supports individuals within the
+organization
+towards ACC certification. So far, 3 cohorts have
+completed
+this program bringing together over 450 internal
+coaches.
+•Education and Sensitization: TCS has mandatory
+online
+training designed to sensitize employees on key
+concepts of
+DEI. 504,255 employees completed this in FY 2023.
+•Employee Resource Groups: These serve as platforms
+for
+under-represented communities and their allies to
+share
+concerns, experiences, stories and strategic
+solutions. TCS
+has 13 voluntary, employee-led groups that have come
+together based on shared diversity identity
+characteristics
+or interest.
+Ma hampions of Equity: This campaign was created to
+ensure a fair and inclusive culture at the workplace.
+Under
+this program, 105,000 employees have taken a pledge
+till
+date, to be a Champion of Equity – someone who treats
+everyone with fairness and transparency, and takes an
+inclusive approach towards every individual, culture
+and
+system.
+•TCS Culture Survey: As part of the Belongingness
+campaign, TCS Culture Survey was rolled out and
+responded to by over 7,000 employees across 7
+geographies.
+•Employee Engagement: Over 84,000 employees
+participated in DEI learning programs and diversity
+celebration month.
+•
+Supplier Diversity: TCS has a Supplier Diversity
+Program
+that identifies certified diverse suppliers that can
+provide
+competitive, high-quality goods and services, whose
+business model is aligned with the company’s business
+strategy.
+Talent Development
+TCS strongly believes that every employee should have
+access
+to market relevant learning opportunities for career
+growth and
+no TCSer should be left behind. The company has
+adopted a
+segmented approach to learning to ensure this.
+TCS Elevate: TCS’ pioneering program linking learning
+to career
+growth and reward covered over 407,000 employees.
+Over
+22,000 employees were identified as high talent and
+received
+increased compensation.
+Contextual Masters: TCS’ program to identify tenured
+employees with contextual knowledge of the customer’s
+business and technology landscape, continues to
+expand. The
+company has over 64,000 Contextual Masters who are
+being
+groomed to be next generation transformation leaders
+with
+specially curated leadership development programs
+designed in
+collaboration with Ivy league institutions.
+•500,000 employees trained in digital technologies,
+with an
+average of ~7.5 competencies per employee.
+•568,000 employees have acquired Agile competency,
+with
+495,000 of them groomed as Agile practitioners, over
+35,000 as Agile certified and about 3,000 as mentors
+and
+coaches.
+•Taking advantage of the large numbers of employees
+who
+started returning to office after two years of
+entirely virtual
+working, the company adopted an increasingly phygital
+(physical + digital) approach to learning and
+development.
+Over 80,000 TCSers benefited from in-person training
+during the year.
+Building on Belief through Purposeful People Policies
+Based on feedback received from employees, evolving
+needs of
+the workforce and best practices in the field of
+human capital
+management, the company makes refinements to existing
+policies and introduces new policy. In FY 2023, TCS:
+•Introduced a new policy on workforce fluidity, in
+keeping
+with its talent cloud strategy, that encourages
+employees
+to take ownership of their careers by seeking new and
+challenging opportunities at defined periodicity.
+•Introduced a policy on flexible work arrangements,
+which
+provides necessary support and flexibility for
+caregivers of
+young children, expectant women employees, and
+persons
+with disability.
+•Extended its policy on DEI to include gender
+identity,
+individuals with mental variations and HIV/Aids
+affected
+persons at the workplace, and to comply with relevant
+inclusivity laws.
+Talent Transformation
+TCS has multiple initiatives to help employees grow
+in their
+careers:
+•Mentoring: TCS has been building a culture of
+mentoring
+and coaching in the organization through systemic
+intervention programs as part of its Mentor
+Capability
+Building Framework. This was further strengthened
+during
+the year with the introduction of two new
+certifications
+– Platinum and NexGen certification in mentoring. TCS
+currently has about 36,000 mentors in the
+organization of
+whom more than 3,500 Gold and Silver certified.
+•iConnect is a highly collaborative tool designed to
+help
+employees reach out to senior mentors for guidance on
+career paths, and have face to face dialogues about
+their
+role and career. In FY 2023, over 29,000 iConnect
+sessions
+were initiated.
+•Talent Review is TCS’ process to assess and review
+the
+leadership pool in the organization. It enables
+leaders to
+share their career aspirations and preferences of
+mobility,
+followed by an assessment of their leadership
+attributes.
+The objective of the program is to create and sustain
+a
+healthy leadership pipeline.
+•Exciting Opportunities is the internal platform to
+publish
+niche and critical open positions to the leadership
+and
+Key Metrics:
+•
+60,000 open positions fulfilled using up-skilled /
+cross-
+skilled employees.
+•
+TCSers invested in 82.4 hours of learning on average
+during
+the year.
+Average Learning Hours
+per employee 82.4 hrs
+Learning Hours by cohorts
+Mid-level focus showing results
+Senior
+Middle
+Junior
+•
+41
+42
+43
+40
+112
+104
+Total learning
+Hours clocked
+Male
+Female
+TCSers acquired 53,000 certifications on various
+hyperscaler cloud technologies during the year. With
+over
+110,000 cloud certified employees in total, TCS is
+the #1
+partner for Google and #2 partner for Microsoft
+Azure.
+Integrated Annual Report 2022-23
+Management Discussion and Analysis | 90
+mobility. This embodies the company’s philosophy of
+giving the first right of refusal for all leadership
+positions
+to internal candidates, thereby enabling better
+leadership
+development and building strong organizational
+loyalty.
+Competitive Compensation
+TCS’ business model depends on its ability to attract
+and
+retain talent in the highly competitive, global
+market for
+software engineers with graduate or post-graduate
+degrees in
+engineering and with relevant technical skills.
+Compensation levels are merit based, determined by
+qualification, experience levels, special skills if
+any, and
+individual performance. Compensation structures are
+driven
+by prevailing practices in each country that TCS
+operates in.
+The merit based, democratized, transparent talent
+framework
+– Elevate, is designed to establish a tighter linkage
+between
+learning, skill development, career and reward. The
+company
+regularly benchmarks its compensation plans and
+benefits with
+the market to ensure competitiveness.
+At TCS, three months’ notice is required from either
+side for
+termination6. Although most of the organization’s
+activities
+are performed by full-time employees, TCS uses
+contractors,
+especially for short-term assignments or those
+requiring skills
+not internally available.
+Engagement with Purpose
+With more employees returning to work, various
+programs
+were run to enable higher levels of engagement. More
+than
+320,000 employees were engaged through townhalls and
+project confluences with an emphasis on Living my
+Values,
+Build my Career and Lifelong Learning. The company
+enabled
+more than 22,000 mentoring sessions and over 15,000
+career
+conversations.
+Highlights of the company’s key engagement forums:
+•
+•
+New Joinee Integration: Various structured programs
+such as meet and greet sessions, workplace visits and
+leader connects were organized to improve the
+integration
+experience of new joiners at various milestones of
+their
+induction in the initial one year. The effectiveness
+of these
+programs was demonstrated by the high 83% iBelong
+satisfaction index.
+TCS Cares: Aims to build an emotionally strong and
+mentally resilient workforce. A special edition
+targeting
+leaders saw participation by over 1,100 leaders. 87%
+of participants agreed that it helped in their
+wellbeing
+and 80% agreed that their productivity increased
+after
+attending this program.
+•Fit4life: Builds a fraternity of health and fitness
+conscious
+employees and creates a culture of fitness. 54,000
+active
+participants logged physical activity equivalent to
+running
+24 million kms.
+•Purpose4Life: Forum for volunteering for community
+projects in the areas of education, health and
+environment.
+More than 40,000 volunteers participated in various
+social
+6
+GRI 402-1
+Integrated Annual Report 2022-23
+outreach initiatives, contributing 898,000
+volunteering
+hours that benefited 394,000 individuals in the
+community.
+•
+PULSE: Pulse 2022 recorded an enthusiastic
+participation
+with more than 400k employees taking in the survey.
+TCS
+has achieved Satisfaction Index of 79.5 and
+Engagement
+Index of 81.0.
+Other engagement and collaboration platforms in TCS
+include:
+•Knome, KnowMax, GEMS: Platforms for social
+collaboration within the organization, learning,
+sharing and
+for rewards and recognition.
+•Safety First: Initiative focused on employee safety
+and
+security.
+•Maitree: Community of TCSers and their families who
+plan
+activities that help create a bond among employees
+and
+promote work-life balance.
+Employee Retention
+TCS’ values-driven culture, progressive HR policies,
+and
+philosophy of investing in people and empowering them
+have
+been integral to creating a culture of belonging and
+One TCS and
+also made it an industry benchmark in talent
+retention.
+The company’s philosophy of grooming leadership from
+within,
+and giving first right of refusal to internal talent
+for new open
+positions, inspires higher levels of loyalty to the
+organization.
+This has resulted in a very strong, deeply
+acculturated mid-layer
+with long tenures in the company. This cohort played
+a pivotal
+role in seamlessly integrating new talent in FY 2023
+and added
+significant value through their contributions and
+contextual
+knowledge.
+Unprecedented levels of employee churn across the
+industry
+drove TCS’ attrition to an all-time high in the first
+half of FY 2023.
+It trended down in the second half. IT services
+attrition was
+20.1% on an LTM basis.
+Occupational Health and Safety
+TCS has a well-defined Occupational Health and Safety
+(OHS)
+policy and supporting processes to ensure the safety
+and
+well-being of its employees. Safety lead and lag
+indicators
+are measured across the organization and reported.
+The
+Stakeholders’ Relationship Committee in the Board
+reviews the
+company’s health and safety performance on a half-
+yearly basis.
+Over 94% of the workforce is represented in joint
+management-
+employee health and safety committees that monitor,
+advise,
+and drive occupational, health and safety
+initiatives.
+TCS is certified to ISO 45001:2018 Occupational
+Health and
+Safety Management System standard across 127 of its
+facilities
+worldwide covering approximately 94% of its total
+footprint.
+The company continued to focus on creating ergonomic
+awareness including correct postures and workstation
+stretches
+for an office-based work environment and remote
+working
+environment, as employees worked in hybrid mode
+during the
+year. General safety awareness (fire safety, office
+safety, road
+safety etc.,) and safety incident reporting awareness
+was also
+provided to employees through monthly themes and
+campaign
+initiatives. There were also several fitness
+programs, including
+yoga and meditation practices, mental health and
+wellbeing
+which drew employee participation.
+FINANCIAL PERFORMANCE OVERVIEW
+The discussions in this section relate to the
+consolidated, Rupee-denominated financial results
+pertaining to the year that ended
+March 31, 2023. The financial statements of Tata
+Consultancy Services Limited and its subsidiaries
+(collectively referred to as ‘TCS’ or
+‘the Company’) are prepared in accordance with the
+Indian Accounting Standards (referred to as ‘Ind AS’)
+prescribed under section
+133 of the Companies Act, 2013, read with the
+Companies (Indian Accounting Standards) Rules, as
+amended from time to time.
+Significant accounting policies used in the
+preparation of the financial statements are disclosed
+in the notes to the consolidated
+financial statements.
+The following table gives an overview of the
+consolidated financial results of the company:
+Revenue from operations
+Earnings before interest, tax, depreciation and
+amortization (EBITDA) (before other income)
+Profit Before Tax (PBT)
+Profit after tax attributable to shareholders of the
+company
+Earnings per share (in `)
+FY 2023
+Amount
+% of Revenue
+225,458
+100.0
+59,259
+26.3
+56,907
+42,147
+% Growth
+17.6
+11.7
+25.2
+18.7
+115.19
+(` crore)
+FY 2022
+Amount
+% of Revenue
+191,754
+100.0
+53,057
+27.7
+10.1
+10.051,687
+38,327
+11.2103.62
+27.0
+20.0
+Analysis of revenue growth
+On a reported basis, TCS’ revenue grew 17.6% in FY
+2023, compared to 16.8% in the prior year. The growth
+was driven by accelerated
+spending on digital transformation initiatives, cloud
+adoption and increased outsourcing, aided by currency
+benefit.
+Average currency exchange rates during FY 2023 for
+the three major currencies are given below:
+Currency
+Weightage (%)
+USD
+GBP
+EUR
+FY 2023
+`
+56.0
+12.8
+10.8
+FY 2022
+`
+80.74
+96.98
+84.01
+% Change YoY
+74.61
+101.50
+86.36
+8.2
+(4.5)
+(2.7)
+Movements in currency exchange rates through the year
+resulted in a positive impact of 3.9% on the reported
+revenue. The constant
+currency revenue growth for the year, which is the
+reported revenue growth stripped of the currency
+impact, was 13.7%.
+Growth attributable to
+Business growth
+Impact of exchange rate
+Total Growth
+FY 2023 (%)
+13.7
+3.9
+17.6
+FY 2022 (%)
+15.4
+1.4
+16.8
+Segmental Performance
+The revenue break-up by Industry Vertical and
+Geography is provided below:
+Revenue by Industry Vertical
+Revenue by Geography
+Others 8.2%
+India 5.0%
+Middle East
+and Africa 1.9%
+Asia Paciﬁc 8.0%
+Manufacturing 9.4%
+La�n America 1.8%
+Life Sciences and
+Healthcare 10.9%
+Retail and Consumer
+Business 16.6%
+Integrated Annual Report 2022-23
+Banking, Financial Services
+and Insurance 38.2%
+Communication, Media
+and Technology 16.7%
+Con�nental
+Europe 14.9%
+North America 53.4%
+United Kingdom 15.0%
+Management Discussion and Analysis | 92
+Segment revenues, year on year growth, a brief
+commentary and segment margins are provided below:
+Industry Vertical
+Banking, Financial
+Services and
+Insurance
+Communication,
+Media and
+Technology
+Segment
+Revenue
+FY 2023
+(FY 2022)
+₹ crore
+86,127
+YoY
+Revenue
+Growth
+%
+14.6
+Key Demand Drivers7
+•
+(75,126)
+37,653
+18.1
+AI for risk monitoring and management, fraud
+detection and
+trading strategies.
+•Customer journey transformation, ecosystem
+strategies for new
+products and services, connected insurance, fintech
+adoption.
+•Decentralized finance, embedded finance, Banking as
+a Service,
+document custody transformation.
+•
+•Sustainability and climate change initiatives, green
+lending.
+5G and fiber rollout, network virtualization, cloud
+enablement,
+product, and platform engineering.
+(31,874)
+•
+Segment
+Margin
+FY 2023
+(FY 2022)
+%
+25.9
+(26.9)
+28.3
+(29.9)
+AI-monitored networks, generative ai for automated
+content
+creation.
+•
+Retail and
+Consumer Business
+37,506
+(30,715)
+22.1
+Hyper-personalization, immersive experiences in
+gaming,
+recommendation engines.
+Retail and Consumer Packaged Goods (CPG):25.7
+•Marketplace, social commerce, future stores, digital
+advertising
+platform, payments.(27.8)
+•Smart shelves, smart manufacturing, automated micro-
+fulfilment
+centers.•Resilient and intelligent supply chain,
+partner integration, track
+and trace, last-mile delivery, ai enabled inventory
+management.•Seamless and unified customer experience
+across channels
+(omni-channel), hyper personalization, CX and
+recommendations,
+AI for apparel design and personalized fashion
+recommendations.•Green labeling.
+Travel, Transportation and Hospitality (TTH):
+•Retailing in airlines, new distribution capability,
+experiential
+selling and non-booking revenues in hospitality,
+decision
+intelligence.
+•Automation and self-service, touchless experience,
+digital
+identity solutions, maintenance drones in airlines,
+autonomous
+vehicles, and robots in airports.
+•Warehouse robotics, intelligent shipment planning,
+last mile
+delivery, real-time operations visibility, AI-enabled
+pricing, end-
+to-end shipment visibility in logistics.
+•Safe and sustainable travel.
+Only industry specific drivers are listed. In
+addition, every industry vertical saw demand for TCS’
+services around IT estate rationalization, core
+platform simplification, application and data
+modernization, ERP modernization, cloud enablement,
+cloud migration, data democratization, data
+compliance and protection, IT infrastructure
+modernization, employee experience redesign, digital
+workplace transformation, cyber security,
+intelligent automation, business and IT operating
+model transformation, agile and DevOps adoption,
+digital marketing and analytics, mergers,
+acquisitions and divestitures, supply chain
+transformation, vendor consolidation and cost
+optimization.
+Industry Vertical
+Life Sciences and
+Healthcare
+Segment
+Revenue
+FY 2023
+(FY 2022)
+₹ crore
+24,605
+YoY
+Revenue
+Growth
+%
+20.2
+(20,462)
+Key Demand Drivers7
+Segment
+Margin
+FY 2023
+(FY 2022)
+%
+28.0
+Life Sciences:
+•Drug discovery, virtual clinical trials, connected
+labs, and
+instruments.
+•Digital twin for manufacturing and factory of the
+future.
+•AI-led pharmacovigilance and product surveillance.
+(30.0)
+Healthcare:
+Manufacturing
+21,236
+14.1
+(18,610)
+Others
+18,331
+22.5
+•Patient experience, health data platforms.
+•Wearable devices, mobile health.
+••AI powered diagnosis, treatment planning, digital
+surgery,
+personalized medicine.
+Integration across silos and digital twins for
+product innovation.
+•Connected assets and plants, remote asset
+management.
+•Resilient supply chain, parts track and trace.
+•Front-end digital investments to enhance customer
+experience.
+•Plant safety, energy efficiency and decarbonization,
+emission
+tracking and monitoring, sustainability focus on
+facilities waste
+management and energy, EVs.
+Connected ecosystems for utilities, connected home,
+smart
+metering and alerts, virtual power plants, remote
+monitoring
+and infra inspection.
+•
+(14,967)
+•AI-enabled smart grids, patterns, and predictions.
+•Energy transition, emission detection and monitoring
+in critical
+infrastructure.
+Business Outlook
+Global growth is projected to moderate from 3.4
+percent in
+2022 to 2.8 percent in 20238 , weighed down by
+central banks
+raising interest rates to fight inflation, and
+Russia’s war in
+Ukraine. In major economies, the heightened risk of a
+recession
+– made worse by a banking crisis – has led to
+uncertainty in
+enterprise decision-making, affecting spending on
+capex and
+certain discretionary programs.
+Despite this, spending on IT services has been
+resilient so far.
+Cloud migration programs are continuing apace, and
+clients
+continue to launch new G&T projects. The higher level
+of
+uncertainty in the business environment has made
+clients
+more receptive to proactive proposals around IT and
+business
+operating model transformations that can not only
+deliver
+significant efficiencies but also help them become
+more agile
+and resilient. All this has resulted in a strong
+order book for
+8
+27.5
+(30.1)
+21.1
+(20.6)
+FY 2023, at $34.1 Bn, which is 1.2 times revenue. The
+pipeline
+has also grown well.
+This provides visibility on medium-term growth amid
+near-
+term uncertainty. If the delayed decision-making and
+cash
+conservation seen in some segments at the end of FY
+2023
+flows over into the first half of FY 2024, that could
+result in some
+moderation in full year revenue growth after two
+years of strong
+growth.
+Key demand drivers expected to power the company’s
+growth in
+FY 2024 include:
+•
+Technology transformation: IT infrastructure
+modernization, cloud enablement, application and data
+estate modernization, cloud migration, data centre
+and
+collocated data support, digital workplace, digital
+twins,
+cyber security, ERP modernization, low-code no-code,
+5G/
+Edge and AI adoption.
+IMF World Economic Outlook Update, April 2023
+Integrated Annual Report 2022-23
+Management Discussion and Analysis | 94
+G&T: Customer experience transformation using
+personalization, omnichannel implementation,
+immersive
+experiences using XR/Metaverse, product and business
+model innovation, supply chain modernization, M&A
+integration / divestitures, sustainability.
+•Operations: Traditional outsourcing, vendor
+consolidation
+and multi-services deals, AI/ML-led transformation of
+IT
+/ business operations for greater resilience and
+leaner
+operating models, managed services models and real
+time
+operation visibility.
+knock-on effects of the pandemic including attrition
+and impact
+of hybrid modes of working. Technological
+advancements and
+breakthroughs like generative AI and metaverse have
+opened up
+new vistas of both risks and opportunities.
+Enterprise Risk Management9
+FY 2023 saw multiple external and internal challenges
+continuing
+to shape the overall risk profile of the company.
+Macroeconomic
+and geo-political risks had an impact throughout the
+year.
+The Russia-Ukraine war and geo-political tensions,
+trade wars
+and imposed sanctions were pervasive and had direct
+and
+cascading impacts on economies and businesses.
+Shortages,
+rising inflation, supply-chain disruptions, energy
+crisis led to
+further uncertainties in the economic growth
+environment,
+with the year ending with banking industry upheavals
+in US and
+Europe. During the year, IT organizations including
+TCS faced the
+TCS continues to monitor this uncertain and dynamic
+business
+environment very closely and has strengthened the
+deployment
+of its Enterprise Risk Management framework to
+address
+the risks and leverage the associated opportunities.
+This
+framework enables risk identification, risk
+assessment, risk
+response planning and actions, risk monitoring and
+overall risk
+governance. Key risk indicators and control
+indicators are used
+to anticipate risks and assess effectiveness of their
+mitigation
+actions respectively.
+TCS takes a holistic view of its enterprise risk
+profile, covering
+strategic, operational, compliance, financial and
+catastrophic
+risks, thus enabling informed decision-making. Risks
+are
+assessed and managed at various levels with a top-
+down and
+bottom-up approach across the enterprise, business
+units,
+geographies, business functions, customer
+relationships and
+individual projects.
+Listed below are some of the key risks, anticipated
+impact on the company and mitigation strategies.
+Key Risks (R)
+/ Opportunity
+(O)Impact on the Company
+Volatile global
+political and
+economic
+environment
+(R)•    �Geo-politics and macroeconomic
+volatility can affect demand for the
+company’s services. The ongoing
+Russia-Ukraine war has led to supply
+chain disruptions, energy crisis, food
+and merchandise scarcities and
+related inflation.
+In case of risk, approach to adapt or mitigate10
+•
+•
+•       �Persistent high inflation in major
+•
+economies could affect consumer
+spending and fuel social unrest.
+Repeated interest rate hikes by central
+banks to rein in the inflation could
+result in economic slowdowns.
+•       �Continuing turmoil in the banking
+sector could affect not only spending
+in that sector, but also squeeze
+liquidity.
+•       �All of these could affect clients’
+business outlook and result in reduced
+demand for TCS’ services. It could also
+increase TCS’ costs of doing business.
+•       �In addition, there could be risks to
+service delivery, business continuity,
+cybersecurity, sanctions compliance
+and human rights risks in geo-
+politically sensitive zones, all of which
+could increase costs or affect the
+company’s revenue growth.
+9
+Financial
+implications
+of the risk or
+opportunity11
+Broad-based business mix, well diversified across
+Negative
+geographies and industry verticals.
+Monitor changing geopolitical scenarios, the
+potential business implications and strengthen
+internal controls to further safeguard against
+secondary risks.
+Offerings and value propositions targeting all
+stakeholders (in addition to the CIO) in the
+customer organization, covering discretionary as
+well as non-discretionary spends, and relevant at
+every point in the business cycle.
+•Participate in the customer’s G&T initiatives
+through services and offerings including advisory
+services, migration and modernization of
+applications and workplace transformation using
+location independent agile, deep contextual
+knowledge and data-driven analytics and
+dashboards.
+•Where customer’s discretionary budgets are
+uncertain, focus on cost and optimization
+propositions in the short term to improve their
+business efficiency.
+TCFD Risk Management A, B and C
+GRI 3-3
+GRI 201-2, TCFD Risk Management A, B and C
+10
+11
+Integrated Annual Report 2022-23
+Management Discussion and Analysis | 95
+Key Risks (R)
+/ Opportunity
+(O)
+Talent risk
+due to huge
+demand for
+talent globally
+and attrition
+(R & O)
+Impact on the Company
+•       �The company’s ability to attract,
+develop, motivate, and retain talent is
+critical to its business success.
+In case of risk, approach to adapt or mitigate10
+•Proactively invest in infrastructure and
+resourcing to satisfy anticipated customer
+demand for flexible products and platforms-
+based solution offerings and subscription-based
+services to gain market share and new clients
+and markets.
+•Enter into more long-term contracts.
+•Target market segments which provide counter-
+cyclical support in times of downturn.
+•Leverage business ecosystem through
+collaboration with partners, start-ups and
+alliances to participate in transformation
+initiatives of customers.
+•Country-level business continuity plans in place
+to address potential conflicts in the region.
+Commitment to organic talent development,
+best in class learning and development, career
+growth linkage to cross-skilling / upskilling,
+preference to internal talent for new leadership
+positions, all incentivize planning of longer-term
+careers in TCS and improved retention.
+•
+•       �Talent scarcity can lead to poaching of
+the company’s employees and result
+in higher attrition. This can disrupt
+ongoing projects, slow down planned •
+ramp ups and affect revenue growth.
+•       �Inability to scale up experienced
+professionals with niche digital skills
+from the market, can also impact TCS’
+ability to grow.
+Focused employee engagement to reduce
+attrition, increase sense of belonging and build
+capability to capture the demand from the
+market.
+•Leverage top employer brand and social
+networking sites and talent sourcing channels to
+tap into the passive pool.
+•Reduce talent acquisition cycle time to improve
+joining rates through innovative practices.
+•Engage in various markets through investments
+in STEM/goIT programs, campus engagements,
+local hiring and building reputation to attract
+local talent.
+Proactive pitches to clients for operating model
+transformations leveraging AI and automation,
+or managed services models to enable tapping
+into global talent pools.
+•
+•       �Talent scarcity in major markets is
+impeding enterprises’ ability to staff
+projects, increasing the propensity to
+outsource.•
+•       �Superior talent retention by TCS can
+result in greater delivery certainty and
+therefore a differentiated positioning
+for the company, driving market share
+gains.
+Integrated Annual Report 2022-23
+Negative
+Tactical initiatives to retain talent using proactive
+as well as reactive initiatives.
+•Opportunity:
+Financial
+implications
+of the risk or
+opportunity11
+Positive
+Commitment to organic talent development,
+best in class learning and development, career
+growth linkage to cross-skilling / upskilling,
+preference to internal talent for new leadership
+positions, all incentivize planning of longer-term
+careers in TCS and best in class talent retention.
+Management Discussion and Analysis | 96
+Key Risks (R)
+/ Opportunity
+(O)
+Impact on the Company
+Restrictions on •       �Distributed software
+development
+global mobility,
+models require the free movement
+location
+of people across countries and any
+strategies (R)
+restrictions in key markets pose a
+threat to the global mobility of skilled
+professionals.
+•       �Restrictions could also be due to
+legislations which limit / delay the
+availability of work visas or which
+apply onerous eligibility criteria or
+costs, leading to project delays and
+increased expenses.
+Business model •        �Rapidly evolving
+technologies are
+changing technology consumption
+changes in
+patterns, creating new classes
+customer
+of buyers within the enterprise,
+enviroment (R
+giving rise to entirely new business
+& O)
+models and therefore new kinds of
+competitors.
+•       �High levels of economic uncertainty
+can result in clients recalibrating their
+IT programs and pulling back their
+spending on discretionary projects.
+•       �Increased focus on corporate
+restructuring and mergers and
+acquisitions in some industries
+is driving vendor consolidation,
+insourcing and cost reduction
+pressures.
+•       �These changes require agile
+responses. Inability to quickly
+adapt could affect company’s
+competitiveness and result in loss of
+market share.
+Integrated Annual Report 2022-23
+In case of risk, approach to adapt or mitigate10
+•Focused employee engagement to reduce
+attrition, increase sense of belonging and build
+capacity to capture market share.
+•Higher level of industrialization, with robust
+processes and controls, and knowledge
+management reduces disruption due to
+attrition of individual team members, and helps
+differentiate TCS.
+Ongoing monitoring of the global environment,
+working with advisors, partners and
+governments to promote local talent building
+efforts.
+•
+Financial
+implications
+of the risk or
+opportunity11
+Negative
+•Material reduction in dependency on work
+visas through increased local hiring, use of
+contractors, local mobility and training in all
+major markets.
+•Leveraging the SBWSTM model to deliver from
+anywhere. Use of Location Independent Agile
+to promote systematic collaboration and reduce
+the need for co-location.
+•Active engagement in Science, Technology,
+Engineering and Math (STEM) initiatives
+designed to structurally increase the availability
+of engineering talent in major markets.
+•Greater brand visibility through event
+sponsorships, community outreach, showcasing
+of investments, innovation capabilities and
+employment generation.
+•Increased outreach to government stakeholders,
+trade bodies, think tanks and research institutes.
+Investments in innovation and differentiated
+Negative
+capabilities at scale on emerging technologies
+through large scale reskilling, external hiring,
+research and innovation, solution development
+and IP asset creation leveraging deep contextual
+knowledge across customer specific domain,
+technologies and processes.
+•
+•Dedicated business service units providing
+end-to-end transformational and operational
+solutions on leading cloud platforms spanning
+advisory, migration and modernization and
+support of applications.
+•Constantly scouring the technology landscape
+using strong partnerships with clients,
+technology providers, academia, and start-ups,
+to spot new trends, technologies and potential
+threats, invest early in building capabilities
+to mitigate risks and participate in the
+opportunities.
+Management Discussion and Analysis
+Key Risks (R)
+/ Opportunity
+(O)
+Impact on the Company
+In case of risk, approach to adapt or mitigate10
+•
+Opportunity:
+Steadily expanding coverage of newer buyers
+in the enterprise by constantly launching new
+offerings and solutions to their most pressing
+business problems.
+•       �Increased focus on corporate
+restructuring and mergers and
+acquisitions in some industries is
+creating new opportunities for IT
+separations and integrations.•• �Interest in
+technology-enabled
+business model innovation has
+opened up opportunities for the
+company to participate in clients’
+growth and transformation spending.Innovative
+offerings like operating model
+transformations using TCS Cognix to help
+deliver significant cost savings quickly, Location
+Independent Agile methods to mitigate location
+constraints and pricing and margin pressures.
+•An entrepreneurial mindset, a decentralized
+decision-making which empowers frontline
+managers to take decisions, and an organization
+structure that enables the company to adapt
+to constantly evolving situations on the ground
+with agility and speed.
+•Differentiated solutions for organization
+divestiture and integration, catering to M&A-
+induced demand for advisory and business
+consolidation related services.
+•Large portfolio of IP made available on
+hyperscaler clouds to accelerate clients’ Horizon
+2 and 3 transformation journeys.
+•PacePort co-innovation hubs, Agile innovation
+cloud framework, and extended innovation
+ecosystem including partners and start-ups
+to help clients accelerate their product and
+business model innovation.
+•Bringing Life to Things framework to help clients
+create connected products, launch remote
+monitoring and maintenance services.
+•Solutions like TCS HOBS and Servitization engine
+to help clients embrace subscription-based
+business models.
+•Focused investments to expand presence in
+clients’ growth and transformation spending,
+including programs like Contextual Masters to
+build organizational capacity, new brand tagline,
+amplification of transformation successes.
+•Platform-based business models and AI-based
+operating models to disrupt conventional labor
+arbitrage based constructs, and gain market
+share.
+•       �Pressure to establish competitive
+differentiation is driving enterprises
+to look for partners to speed up and
+scale up their innovation efforts.
+•       �This is also driving greater interest
+in pre-built solutions, products and
+platforms that can accelerate the
+deployment of transformational
+solutions.
+•       �The quest for cost efficiency along
+with greater resilience and agility
+in operations is expanding the
+opportunity for comprehensive
+operating model transformations.
+Integrated Annual Report 2022-23
+Financial
+implications
+of the risk or
+opportunity11
+Positive
+Management Discussion and Analysis | 98
+/ Opportunity
+(O)Impact on the Company
+Currency
+volatility (R)• �Volatility in currency exchange
+movements results in transaction and
+translation exposure. TCS’ functional
+currency is the Indian Rupee.
+Appreciation of the Rupee against
+any major currency could impact the
+reported revenue in Rupee terms,
+the profitability and also result in
+collection losses.
+In case of risk, approach to adapt or mitigate10
+•Currency hedging policy that is aligned with
+market best practices, to limit impact of
+short term exchange volatility on receivables,
+forecasted revenue and other current assets and
+liabilities.
+•Hedging strategies guided and monitored
+periodically by the Risk Management Committee
+of the Board.
+•
+•       �Conversely, depreciation could
+optically inflate revenues and
+earnings, distorting stakeholder
+perceptions of the underlying business
+momentum and profitability.
+Breach of data •        �The focus on data privacy
+and
+•
+protection laws
+protection of personal data has
+(R)
+increased compliance risk.
+•       �Legislations like GDPR in Europe
+carry severe consequences for
+•
+non-compliance or breach. Many
+other countries have enacted or are
+enacting their Data Privacy regulations
+to ensure protection of personal data.
+•       �Violation of data protection laws
+or security breaches can result
+in substantive liabilities, fines or
+penalties and reputational impact.
+Integrated Annual Report 2022-23
+Financial
+implications
+of the risk or
+opportunity11
+Negative /
+Positive
+Management commentary based on constant
+currency figures to enable a currency-neutral
+understanding of business growth.
+Global privacy policy covering all geographies,
+all areas of operations, and stakeholders, which
+sets out the privacy principles and guidance for
+deployment.
+Negative
+Organization structure with the Global Privacy
+Office to strategize, monitor and guide
+deployment of data privacy framework across
+the enterprise. Data Protection Officers and
+other privacy officers have been appointed
+for TCS entities as required by local privacy
+regulations to monitor and drive implementation
+of data protection principles. Business Privacy
+Leaders are appointed to deploy compliance to
+the data privacy framework in all functions and
+business units.
+•Unified global framework PrivACE adopted
+across all entities and branches to standardize
+privacy practices while catering to local
+requirements.
+•Continuous monitoring and analysis of changes
+to regulatory and legal landscape and enhancing
+the data privacy framework.
+•Privacy Information Management Systems (ISO
+27701:2019) adopted and certified.
+•Embedded privacy by design and privacy by
+default principles in development of new
+or changed internal processes, services and
+products.
+•Data protection controls and robust risk
+response mechanisms to protect personal data
+in the TCS ecosystem and also in customer
+engagements.
+•Industry standard data masking and encryption
+technologies to protect personal data.
+Management Discussion and Analysis | 99
+Key Risks (R)
+/ Opportunity
+(O)
+Cyber Attacks
+(R & O)
+Impact on the Company
+In case of risk, approach to adapt or mitigate10
+•Vendors and third parties subjected to due
+diligence, contracted with appropriate privacy
+obligations and tracked for compliance based on
+risk assessment.
+•Mandatory trainings and workshops on data
+protection, Privacy by Design and global
+privacy regulations. Continuous awareness
+campaigns through blog posts, email broadcasts,
+gamification, roadshows and online events.
+•Risk assessments related to cross border
+transfers and maintaining data transfer
+agreements, where required for the transfer of
+data across jurisdictions.
+•Periodic reviews and audits by independent
+audit firm to verify compliance to obligations in
+addition to internal audits across the ecosystem.
+Use of advanced tools based on AI/ML to
+Negative
+prevent and detect incursions with quarantine
+capabilities, including perimeter security
+controls with advanced tools, enhanced internal
+vulnerability detection, data leak prevention
+tools, defined and tested incident management
+and recovery process in compliance with
+industry best practices.
+Risks of cyber-attacks are on the rise due to •
+the fast-evolving nature of the threat. There
+is also an increased risk due to various
+pandemic themed cyber threats and attacks
+due to geo-political drivers.
+In addition to impact on business
+operations, a security breach could result
+in reputational damage, penalties and legal
+and financial liabilities.
+Integrated Annual Report 2022-23
+Financial
+implications
+of the risk or
+opportunity11
+•Continued reinforcement of stringent security
+policies and procedures (certified against ISO
+27001) including enhanced security measures
+and awareness building to combat phishing
+attempts and soliciting for fraudulent causes or
+charities through social media, text or calls.
+•Close collaboration with Computer Emergency
+Response Team (CERT) and other private cyber
+intelligence agencies, and enhanced awareness
+of emerging cyber threats.
+•Enterprise-wide training and awareness
+programs on Information Security including the
+extensively used enterprise-wide communication
+and collaboration platforms accessed through
+mobile or desktop channels.
+•Strict access controls including non-persistent
+passwords (OTP) for secure access to enterprise
+applications/network, special handling of
+privileged administrator accounts, rigorous
+access management on all cloud deployments.
+•Encryption of data, data back-up and recovery
+mechanisms for ensuring business continuity.
+Management Discussion and Analysis | 100
+ey Risks (R)
+/ Opportunity
+(O)
+Impact on the Company
+Opportunity:
+•       �Enterprises are increasing their
+investments in building cyber
+resilience and turning to specialized
+third parties to be detect and foil
+intrusion attempts and limit the
+impact.
+In case of risk, approach to adapt or mitigate10
+•Ability to isolate TCS enterprise network
+from client network and defined escalation
+mechanisms to handle security incidents in client
+environment.
+•Periodic rigorous testing to validate effectiveness
+of controls through vulnerability assessment and
+penetration testing.
+•Internal and external audits, red teaming,
+“breach and attack” simulation.
+•Sourcing threat intelligence from various
+government, public and private sources to
+proactively block IPs used by threat actors.
+•State of the art security operations center with
+automated playbooks.
+Investments in building local threat management
+Positive
+centers across the world.
+•
+•
+•       �This presents a fast growing business
+opportunity for TCS to become the
+preferred cyber security partner to its
+clients.
+Non-
+•       �As a global organization, the company •
+compliance to
+has to comply with complex regulatory
+complex and
+requirements across multiple
+changing global
+jurisdictions, covering across a
+regulations (R)
+broad range of areas grouped under
+environmental, social and governance
+themes.
+•
+•       �The fast pace and complex
+nature of changes in the
+regulatory requirements requires
+quick identification and sound
+understanding of these requirements •
+along with agility in adaptation in
+business operations. Failure to comply
+could result in penalties, reputational
+•
+damage and criminal prosecution.
+•
+Integrated Annual Report 2022-23
+Financial
+implications
+of the risk or
+opportunity11
+Launch of new services and solutions including
+the Cyber Defense Suite.
+Deployment of a comprehensive global
+compliance management framework that
+enables tracking of regulatory changes across
+various jurisdictions, including new countries
+of operations and functional areas and
+management of compliance risks.
+Negative
+In-house digitized regulatory compliance
+platform enabling clear accountability, tracking
+of compliance obligations and governance to
+ensure long-term business sustainability.
+Operationalized regulatory requirements
+through business policies and embedding into
+business processes.
+100% digitized, quarterly regulatory compliance
+declarations enabling self-governance of all
+compliance areas applicable to company’s global
+operations.
+Up to date, effective internal controls to comply
+with regulations, keep a check on unlawful
+and fraudulent activities and internal audits to
+provide compliance assurance.
+Management Discussion and Analysis | 101
+ey Risks (R)
+/ Opportunity
+(O)
+Impact on the Company
+Intellectual
+•       �Risk of infringement of IP of third
+Property (IP)
+parties including suppliers, partners
+infringement
+and alliance organizations by TCS may
+and leakage (R)
+lead to potential liabilities, increased
+litigation and impact reputation.
+•       �Inadequate protection of TCS’ IP may
+lead to potential loss of ownership
+rights, revenue and value.
+Litigation risks
+(R)
+•       �Litigation risks might arise from
+commercial disputes, perceived
+violation of intellectual property
+rights/trade secret violations and
+employment related matters.
+In case of risk, approach to adapt or mitigate10
+•Strong focus on fostering ethical and compliance
+culture; awareness through web-based
+compliance training courses for all staff and
+regular notifications/alerts on regulatory
+changes communicated to stakeholders.
+•Strong governance at board, executive and
+management levels through compliance
+committees and compliance working groups.
+Establishment of an industry leading IP
+Negative
+management framework (IP 4.0) with
+institutionalized frameworks, processes and
+procedures that address the risk of infringement
+of third-party IP while ensuring safeguarding of
+TCS’ own IP assets.
+•
+•Establishment of a centralized IP and Software
+Product Engineering group that strives to build
+an IP-led culture and IP related awareness
+effectively.
+•Well-defined (software) asset lifecycle
+governance framework that incorporates
+policy guidance and risk mitigation guidelines
+on IP, legal, software product engineering and
+business-related risks.
+•IP governance program that ensures that there
+is right access and right use of TCS IP, customer
+IP, partner IP, and third-party IP in service and
+partner engagements.
+•Other key controls include employee
+confidentiality agreement, training and
+awareness for IP protection and prevention of
+IP contamination and infringement. Digitized
+system to enable strict controls around
+movement of people and information across
+TCS’ product teams and customer account
+teams.
+Strengthening internal processes and controls to
+Negative
+adequately ensure compliance with contractual
+obligations, information security and compliance
+with IP policies and procedures for protection
+of intellectual property and avoidance of
+allegations of trade secret violations.
+•
+•       �The company’s rising profile and scale
+also makes it an attractive target to
+meritless lawsuits.••   �Besides the distraction and
+legal
+expense, litigations garner negative
+media attention and pose reputation
+risk. Adverse rulings can result in
+substantive damages.Improved governance and controls
+over
+immigration process /increasing localization and
+inclusion of arbitration provisions in employment
+contracts.
+•Training and sensitization of business managers
+to spot the risks, adhere to best practices
+and escalate potential disputes within the
+organization for early mitigation steps.
+Integrated Annual Report 2022-23
+Financial
+implications
+of the risk or
+opportunity11
+Management Discussion and Analysis | 102
+Key Risks (R)
+/ Opportunity
+(O)
+Sustainability
+Risks - Climate
+change and
+Environmental
+aspects (R &
+O)12
+Impact on the Company
+•       �Extreme weather events due to
+climate change pose a threat to
+human safety and can cause business
+disruptions.
+In case of risk, approach to adapt or mitigate10
+•Team of in-house counsels in all major
+geographies and a network of reputed global law
+firms in countries it operates in.
+•Robust mechanism to track and respond to
+notices as well as defend the company’s position
+in all claims and litigation.
+An environmentally sustainable approach
+Negative
+through green policies, processes, frameworks
+and infrastructure, on target to achieve net zero
+carbon emissions by 2030.
+•
+•       �With globally distributed operations,
+•
+the company faces physical risks to life
+and property due to extreme weather
+events, transition risks resulting
+from disruptions in the market and
+•
+emerging regulations, disruptions
+to operations due to water scarcity,
+risks of inadvertent non-compliance
+to emerging regulatory requirements
+around circular economy, e-waste and
+•
+solid waste regulations, impacting
+health and safety in local communities,
+business disruption and reputational
+damage. All of these could affect TCS’
+growth and profitability.
+•
+Opportunity:
+Delivery centers designed to withstand extreme
+weather events. Business continuity plans are
+tested periodically to ensure effectiveness.
+Green buildings, efficient operations, green
+IT, greater use of renewable energy to
+reduce carbon footprint; adoption of newer
+technologies and methods to manage waste in
+line with circular economy principles.
+Operational and engineering controls to
+minimize freshwater consumption, upgradation
+of water infrastructure and more water efficient
+systems.
+Water management through sewage treatment,
+recycling of treated water and rainwater
+harvesting.
+•Supply chain sustainability through responsible
+sourcing, including leveraging sustainability
+ratings platform.
+•Year-round employee engagement on
+environmental awareness and sensitizing them
+towards nature and conservation of resources.
+•Initiatives like TCS Circle4Llife™ and
+Sustainathons to come up with technology-led
+innovations to safeguard TCS’ environment.
+Dedicated business units for each of the large
+hyperscaler providers, helping clients migrate
+their workloads from owned data centers to the
+cloud, thereby reducing the carbon footprint
+associated with those workloads.
+•
+•       �As enterprises look to reduce their
+own carbon footprint and cater
+to the growing demand more
+environmentally friendly products and
+services, it opens up new business
+•
+opportunities for TCS to provide
+technology-led solutions to help them
+realize their green plans.
+•       �Proactive measures taken by TCS to
+reduce its environmental footprint
+•
+strengthens the brand and makes it
+attractive to enterprises looking for an
+IT partner with a shared purpose. It
+also helps attract and retain younger,
+more purpose-driven employees.
+12
+Financial
+implications
+of the risk or
+opportunity11
+Positive
+Steadily expanding suite of sustainability services
+including designing sustainability strategy,
+sustainability innovation, sustainable consumer
+analytics and sustainability dashboards.
+Build and promote TCS products and solutions
+such as TCS Clever Energy™, Envirozone™,
+ESG integration solution, to help accelerate
+customers’ sustainability journeys.
+TCFD Metrics and Targets B
+Integrated Annual Report 2022-23
+Management Discussion and Analysis | 103
+Key Risks (R)
+/ Opportunity
+(O)Impact on the CompanyIn case of risk, approach to
+adapt or mitigate10
+Challenges and
+Opportunities
+with Disruptive
+Technologies
+(R & O)Disruptive cutting-edge technologies like
+•
+quantum computing, generative AI and
+large language models and metaverse could
+•
+impact TCS’ business:Ensure controlled use of these
+technologies
+through pilots/research.
+•
+Quantum computing may increase
+exposure to cyberattacks because
+existing security infrastructure may
+prove inadequate.
+Work with government bodies, regulators and
+academia to build consensus about policies and
+guidelines for use of these technologies.
+•Embark on large-scale skilling of employees to
+prepare for deployment on market-oriented
+products and services based on these
+technologies.
+Generative AI, large language models
+and metaverse could lead to legal
+liabilities through plagiarism, deep
+fakes and privacy and copyright
+infringement issues.
+•The efficacy of AI models depends on •
+the quality of the data they are trained
+on. Unless specifically designed to
+prevent such outcomes, the models
+could be vitiated by all kinds of
+human biases contained in large data
+sets, and produce outcomes that
+cause reputational damage and legal
+liabilities.
+Generative AI technologies could
+disrupt software development and
+testing activities, distorting customer
+expectations in the short term.
+Opportunity:
+Restricted access to generative AI technologies
+like ChatGPT on company network until proven
+safe.
+••
+Financial
+implications
+of the risk or
+opportunity11
+Negative
+Participate as a member of industry specific large
+language models consortia.
+•
+•
+•       �Generative AI technologies also have
+the potential to reimagine existing
+•
+products and services and can also
+open up opportunities in form of new
+solutions using those technologies,
+and new services needing newer kinds
+of skills.
+•
+Integrated Annual Report 2022-23
+Proactively invest in research around embedding
+Positive
+generative AI capabilities into software
+development processes to boost productivity.
+Develop niche skills to tap demand created
+for Post Quantum cryptography services
+as customers seek Quantum safe security
+algorithms.
+Leverage opportunities to market TCS’ own
+generative AI tools and services as overall
+attention and adoption of the technology
+increases.
+Management Discussion and Analysis | 104
+TCS has aligned its current systems of internal
+financial control
+with the requirement of Companies Act, 2013, on the
+lines
+of the globally accepted risk-based framework issued
+by the
+Committee of Sponsoring Organizations (COSO) of the
+Treadway
+Commission. The Internal Control – Integrated
+Framework
+(the 2013 framework) is intended to increase
+transparency
+and accountability in an organization’s process of
+designing
+and implementing a system of internal control. The
+framework
+requires a company to identify and analyze risks and
+manage
+appropriate responses. The company has successfully
+laid down
+the framework and ensured its effectiveness.
+TCS’ internal controls are commensurate with its size
+and the
+nature of its operations. These have been designed to
+provide
+reasonable assurance with regard to recording and
+providing
+reliable financial and operational information,
+complying with
+applicable statutes, safeguarding assets from
+unauthorized use,
+executing transactions with proper authorization and
+ensuring
+compliance with corporate policies. TCS has a well-
+defined
+delegation of power with authority limits for
+approving contracts
+as well as expenditure. Processes for formulating and
+reviewing
+annual and long-term business plans have been laid
+down.
+TCS uses a state-of-the-art enterprise resource
+planning (ERP)
+system that connects all parts of the organization,
+to record data
+for accounting, consolidation and management
+information
+purposes. It has continued its efforts to align all
+its processes
+and controls with global best practices.
+TCS management assessed the effectiveness of the
+company’s
+internal control over financial reporting (as defined
+in Regulation
+17 of SEBI (Listing Obligations and Disclosure
+Requirements)
+Regulations, 2015 (SEBI LODR) as of March 31, 2023.
+Integrated Annual Report 2022-23
+B S R & Co. LLP, the statutory auditors of TCS have
+audited the
+financial statements included in this annual report
+and have
+issued an attestation report on the company’s
+internal control
+over financial reporting (as defined in section 143
+of Companies
+Act, 2013).
+TCS has appointed PricewaterhouseCoopers Services LLP
+(PwC)
+LLP to oversee and carry out internal audit of its
+activities. The
+audit is based on an internal audit plan, which is
+reviewed each
+year in consultation with the statutory auditors and
+approved
+by the Audit Committee. In line with international
+practice,
+the conduct of internal audit is oriented towards the
+review of
+internal controls and risks in the company’s
+operations such
+as software delivery, accounting and finance,
+procurement,
+employee engagement, travel, insurance, IT processes,
+including
+the subsidiaries and foreign branches.
+TCS also undergoes periodic audit by specialized
+third party
+consultants and professionals for business specific
+compliances
+such as quality management, service management,
+information
+security, etc. The Audit Committee reviews reports
+submitted
+by the management and audit reports submitted by
+internal
+auditors and statutory auditors. Suggestions for
+improvement
+are considered and the audit committee follows up on
+corrective
+action. The audit committee also meets TCS’ statutory
+auditors
+to ascertain, inter alia, their views on the adequacy
+of internal
+control systems and keeps the board of directors
+informed of its
+major observations periodically.
+Based on its evaluation (as defined in section 177 of
+Companies
+Act 2013 and Regulation 18 of SEBI LODR), TCS’ Audit
+Committee
+has concluded that, as of March 31, 2023, the
+company’s
+internal financial controls were adequate and
+operating
+effectively.
+Management Discussion and Analysis | 105

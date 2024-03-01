@@ -1,0 +1,410 @@
+Our full services capability enables us to help our
+clients thrive,
+in good times and bad. During the up-cycle, we help
+clients
+accelerate and expand their technology-led innovation
+to
+diﬀerentiate themselves and drive growth. On the down
+cycle,
+we help them adapt, using technology to drive the
+eﬃciency,
+agility and resilience needed to cope with a
+faltering economy,
+and prepare for better times ahead.
+Letter to
+Shareholders1
+Dear Stakeholder,
+Demand for our services showed remarkable resilience
+even as other parts of the technology universe
+deflated,
+and macroeconomic uncertainties worsened in our major
+markets throughout FY 2023. Our revenue for the year
+was ₹225,458 crore, a growth of 17.6% over the prior
+year
+(13.7% in constant currency).
+This growth came with an industry leading operating
+margin of
+24.1%. Our Net Margin was at 18.7%. The Earnings Per
+Share
+was at ₹115.19, a growth of 11.2% over the prior year.
+From an industry vertical perspective, growth in FY
+2023
+was led by Retail and Consumer Business, which grew
+22.1%, Life Sciences and Healthcare which grew 20.2%
+and
+Communications, Media and Technology which grew
+18.1%.
+Banking, Financial Services and Insurance grew 14.6%
+while
+Manufacturing grew 14.1%. Others, which make up 8.2%
+of
+revenues, grew 22.5%.
+By geographic markets, North America grew 24.2%, UK
+grew
+11.4% and Continental Europe grew 9.2%. Among
+emerging
+markets, Latin America grew 24.8%, India grew 14.9%,
+Middle
+East & Africa grew 12.5% while Asia Pacific grew
+7.1%.
+The Board has recommended a final dividend of ₹24 per
+share, bringing the total dividend for the year to
+₹115 per
+share. For the full year, the company’s shareholder
+payout was
+₹42,079 crore, 108.2% of the free cash flow during the
+year.
+Innovate, Adapt, Thrive
+Our performance this year reflects how much of an
+enterprise
+staple IT services have become. Our full services
+capability
+enables us to help our clients thrive, in good times
+and bad.
+During the up-cycle, we help clients accelerate and
+expand
+their technology-led innovation to differentiate
+themselves and
+drive growth. On the down cycle, we help them adapt,
+using
+1
+technology o drive the efficiency, agility and
+resilience needed
+to cope with a faltering economy, and prepare for
+better times
+ahead.
+Cloud transformation remained a high priority area
+for
+enterprises in FY 2023, with greater focus on
+execution. They
+engaged us to take up the modernization and migration
+of
+their bigger, more complex workloads. The breadth and
+depth
+of our cloud expertise, our scale, deep domain
+knowledge,
+strong partnership credentials with the hyperscalers
+and our
+portfolio of intellectual property on the cloud, give
+us a distinct
+competitive edge in this phase of the cloud adoption
+cycle.
+We also helped clients cope with the challenge of
+managing
+cloud expenses. In some cases, it required
+rearchitecting
+their application stack to be more cloud native,
+capable of
+dynamically ramping up resource consumption during
+periods
+of high demand, and automatic ramping down at other
+times.
+Elsewhere, we offered our FinOps advisory and cloud
+managed
+services to rein in cloud costs.
+The adoption of cloud technologies continues to drive
+innovation within enterprises. The availability of
+compute, dataand networks at scale provides access to
+powerful technologies
+like advanced analytics and machine learning, applied
+to diverse
+areas like computer vision, text and speech
+processing, in
+domains like dynamic supply chain optimization, new
+molecule
+discovery in life sciences and usage-based pricing of
+insurance
+coverage.
+Newer developments like generative AI, large language
+models,
+and quantum computing triggered more experimentation
+and
+innovation by our clients. Our investments in
+research and
+innovation across different industries, and our Pace
+innovation
+architecture have positioned us well to partner with
+them in
+these initiatives. Our Agile Innovation Cloud
+offering, where
+we create dedicated, location-independent innovation
+teams
+to help clients accelerate and scale up their
+innovation, gained
+further traction in FY 2023. 7 new clients signed up
+during the
+year, bringing the total to 30 clients.
+Newer developments like generative
+AI, large language models, and
+quantum computing triggered more
+experimentation and innovation
+by our clients. Our investments in
+research and innovation across
+different industries, and our Pace
+innovation architecture have
+positioned us well to partner with
+them in these initiatives.
+Some of the emerging innovation themes that we helped
+customers with include ecosystem and multi-industry
+models
+underpinned by technologies like data marketplaces,
+API and
+blockchain, in industries like transportation and
+public sector;
+AI-powered autonomous robotics in the logistics
+industry, and
+new applications for digital twins in the BFSI,
+Telecom and Retail
+industries.Applied at scale, across a broad set of
+business or IT
+operations, this can result in an entirely new
+operating
+model that significantly boosts our clients’
+competitiveness.
+As macroeconomic uncertainty increased in the second
+half
+of the year, we saw clients adapting by
+reprioritizing their
+spends and showing greater interest in such operating
+model
+transformations.
+Within our growth and transformation (G&T) portfolio,
+business
+model innovation continued to be a key theme. For
+example,
+for a large Fortune 500 electric gas utility, we
+built the service
+delivery platform central to their new business model
+of
+providing warranty repair, refurbishment and
+replacement
+services of various home appliances to households.TCS
+Cognix™, our AI-driven human machine collaboration
+suite,
+has been a game changer, enabling faster
+transformations
+that deliver concrete business benefits within
+months. Its 600
+pre-built configurable and reusable digital solutions
+enable plug
+and play transformation of a range of business and
+technology
+functions, horizontal and vertical. Nearly 300 of our
+clients have
+used it to transform their business and IT
+operations.
+Ingram Micro, one of the largest technology
+distributors in
+the US, engaged us as a partner to power their pivot
+into
+e-commerce and achieve their mission to transform
+from
+a traditional distributor to a platform company that
+does
+distribution. Tapestry Inc, a leading New York-based
+house
+of iconic accessories and lifestyle brands such as
+Coach, Kate
+Spade, & Stuart Weitzman, partnered with TCS to drive
+their
+omnichannel modernization and transform the customer
+journey experience.
+Other G&T themes, such as M&A and sustainability
+continued to
+bring in high-profile deal wins and new strategic
+engagements
+for us in FY 2023. Elsewhere in this report, you can
+read about
+the work we did for Philips Domestic Appliances in
+its journey
+to be a standalone company, and how we helped
+Eversource
+Energy pursue its carbon neutrality aspirations.
+Digital transformation, which began in the front
+office, towards
+enhancing customer experience, made further inroads
+within
+the enterprise during the year, unlocking tremendous
+value
+in the middle and back office. As critical
+technologies such as
+machine vision and conversational systems get better
+with
+the use of AI, our Machine First™ approach is helping
+clients
+use them innovatively in the back office, embedding
+them
+into reimagined processes to drive greater velocity,
+agility,
+throughput and resilience – which, among other
+things, also
+enhances customer experience.
+In traditional outsourcing deals, we saw more multi-
+services
+integrated deals. By consolidating multiple elements
+of the
+operation stack – processes, applications, and the
+underlying
+technology and infrastructure – with a single
+strategic partner,
+clients not only achieve greater accountability, but
+also reduce
+complexity and derisk their larger business
+transformations. The
+same rationale is driving more vendor consolidation
+initiatives
+that favor a few strategic partners with end-to-end
+service
+offerings, the right innovation capabilities and
+scale.
+All these trends play to our strengths. Our scale,
+structure, and
+ability to bring together different capabilities into
+a seamless
+service delivery team, helped us win several large
+deals
+throughout the year.
+Investing in People
+The supplyside challenges of the last two years
+peaked in
+the first half of FY 2023, with employee churn
+reaching
+unprecedented levels. We broke out of the vicious
+cycle of hiring
+and counter-hiring within the industry by investing
+in onboarding
+an unprecedent number of fresh engineers – over
+110,000 in
+FY 2022 and over 44,000 in FY 2023 – and training
+them on the
+technologies most in demand.In FY 2023, we focused on
+utilizing the spare capacity built up in
+the prior year, and recalibrated our hiring
+especially as attrition
+started falling in the second half of the year. Our
+LTM attrition in
+IT services for the year was 20.1%. Net addition in
+FY 2023 was
+22,600, and the closing headcount was 614,795. Our
+workforce
+continued to be very diverse, with over 150
+nationalities
+represented and with women making up 35.7% of the
+employee
+base.
+Our investments in organic talent development
+continue to
+deliver exceptional outcomes. In FY 2023, TCSers
+logged
+48.3 million learning hours, and acquired nearly 6
+million
+competencies. Popular technologies witnessed
+unprecedented
+levels of interest from our employees. During the
+year, 53,000
+TCSers acquired certification on hyperscaler cloud
+skills, bringing
+the total number to over 110,000, making TCS one of
+the Top 2
+partners to the largest cloud providers.
+Caring for Communities
+We continued to work with communities across the
+world,
+pursuing our long-standing commitment to programs in
+the
+areas of skills development, bridging of digital
+divides and
+STEM education. In FY 2023, we estimate that our
+community
+initiatives touched the lives of over 4.5 million
+beneficiaries –
+women, youth and members of marginalized communities.
+Our large programs in India around literacy, digital
+entrepreneurship and youth skilling continued to gain
+scale.
+Likewise, our STEM initiatives outside India. goIT is
+shaping
+the next generation of digital innovators in 42
+countries, while
+Ignite my Future in School program has doubled its
+original
+goal, serving over 2 million students and educators
+in five
+geographies worldwide since inception in 2017.
+So long, farewell
+This year marks a key milestone in my journey with
+TCS, and
+an important transition point for the company, as I
+step down
+from my role as CEO and MD on 31st May 2023. It has
+been an
+absolute privilege and an unparalleled learning
+experience to
+lead our company in the last six years, a period of
+tremendous
+growth and transformation for us.
+On a more personal note, I am grateful to Chandra,
+our
+Chairman, for his mentorship and backing over the
+years, to our
+Board members for their guidance, and to all our
+customers
+for the confidence they reposed in us. I take this
+opportunity
+to thank all my colleagues whose support and trust
+made
+my journey as CEO successful, satisfying and
+unforgettable. I
+also thank all my fellow TCSers whose energy,
+dedication and
+aspirations continue to power the organization’s
+success.
+I have had the pleasure of interacting with some of
+you in
+person over the last decade. Your feedback and
+insights helped
+me learn and shaped my worldview. Thank you for all
+your
+support and encouragement.
+With enterprises relying on technology ever more to
+drive their
+competitive differentiation, technology intensity is
+rising and
+on a secular basis, the share of IT services within
+overall tech
+spending is also going up. I am confident that TCS’
+best years are
+ahead, and I look forward to watching the company’s
+continued
+success from outside.
+Best Regards,
+Rajesh Gopinathan
+Chief Executive Officer and Managing Director
+(For FY 2022-23)
+Our employee volunteer program called HOPE (Hours of
+Purpose
+by Employees) resulted in over 2.8 million hours of
+volunteering
+effort towards promoting issues most relevant in
+their local
+communities, such as mental health, climate action,
+circularity,
+education, skilling, mentoring, and conservation.
+On the environmental front, we continue to make good
+progress
+in our net zero journey. We have brought down our
+absolute
+carbon footprint across Scope 1 and Scope 2 emissions
+by 71%
+over base year 2016, meeting our target two years
+ahead of
+time. This was despite increased electricity
+consumption in FY
+2023 from employees’ return to office. In addition to
+enterprise-
+wide initiatives for energy efficiency, we have also
+significantly
+increased our use of renewable energy. Renewable
+energy
+sources today make up 55% of the total (7.25% in
+2016).
