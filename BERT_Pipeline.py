@@ -311,7 +311,7 @@ def generate(source_data_path):
                             
                             # After processing, save the generated .txt file inside the system folder
                             # Create the system folder if it doesn't exist
-                            system_folder = os.path.join(company_path, "Summary")
+                            system_folder = os.path.join(company_path, "Summary_3")
                             os.makedirs(system_folder, exist_ok=True)
                             
                             # Specify the output file path for the generated .txt file
