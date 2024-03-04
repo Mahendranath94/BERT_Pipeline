@@ -7,15 +7,12 @@ import regex
 from nltk import sent_tokenize, word_tokenize
 from typing import Tuple
 import nltk
-from sklearn.model_selection import train_test_split
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, DataCollatorWithPadding, Trainer, TrainingArguments
 from torch.utils.data import DataLoader, TensorDataset
 import torch
 import numpy as np
-from nltk import word_tokenize
 import warnings
 warnings.filterwarnings("ignore")
-import glob
 
 
 nltk.download('punkt')
