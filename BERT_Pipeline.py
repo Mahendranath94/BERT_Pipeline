@@ -2,7 +2,7 @@ import glob
 import os
 import re
 import pandas as pd
-from tqdm import tqdm
+from tqdm import tqdm as tqdm
 import regex
 from nltk import sent_tokenize, word_tokenize
 from typing import Tuple
