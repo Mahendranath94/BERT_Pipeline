@@ -199,7 +199,7 @@ def generate(source_data_path):
                 annual_report_path = os.path.join(company_path, annual_report_folder)
                 
                 # Check if the item is a directory (i.e., an Annual_reports folder)
-                if os.path.isdir(annual_report_path):
+                if os.path.isdir(annual_report_path) and (annual_report_folder=="Annual_Reports" or annual_report_folder=="Annual Reports"):
                     # Iterate over each MDA file in the Annual_reports folder
                     for mda_file in os.listdir(annual_report_path):
                         if mda_file.endswith(".txt"):
