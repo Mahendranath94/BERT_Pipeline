@@ -1,7 +1,5 @@
 transformers[torch]
 torch
-tqdm‎
-glob
 nltk
 regex
 pandas
