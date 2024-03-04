@@ -1,8 +1,7 @@
 transformers[torch]
 torch
-h5py
-rouge_score
-bert_score
+tqdm‎
+glob
 nltk
 regex
 pandas
