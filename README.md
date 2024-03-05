@@ -16,6 +16,6 @@ Go to the project directory, place all the annual reports in `SourceData` folder
 Run `BERT-TS.ipynb` file
 
 ## Follow the below files structure:
-### Make sure there are no empty .txt file in Annaul Reports folders.
+### Make sure there are no empty .txt file in Annual Reports folders.
 ![App Screenshot](https://github.com/Mahendranath94/BERT_Pipeline/blob/main/image.png?raw=true)
 
