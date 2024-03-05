@@ -201,7 +201,12 @@ def generate(source_data_path):
                     for mda_file in os.listdir(annual_report_path):
                         if mda_file.endswith(".txt"):
                             mda_file_path = os.path.join(annual_report_path, mda_file)
-
+                            
+                            # Check if the file is empty
+                            if os.path.getsize(mda_file_path) == 0:
+                                print(f"File '{mda_file_path}' is empty. Skipping.")
+                                continue
+                                
                             test_input = open(mda_file_path,encoding="utf-8").read()
                             filtered_sentences = parse_data(test_input)
 
