@@ -218,120 +218,123 @@ def generate(source_data_path):
                             
                             filtered_sentences = parse_data(test_input)
 
-                            test_encodings = tokenizer(filtered_sentences["Sentenece"], truncation=True, padding=True, max_length=128)
-                            test_encodings_dict = test_encodings.data
-                            test_dataset = torch.utils.data.TensorDataset(
-                                torch.tensor(test_encodings_dict['input_ids']),
-                                torch.tensor(test_encodings_dict['attention_mask'])
-                            )
-
-                            # Define custom data collator
-                            class CustomTestDataCollator(DataCollatorWithPadding):
-                                def __call__(self, features):
-                                    # Unpack features
-                                    input_ids = torch.stack([torch.tensor(feature[0].clone().detach()) for feature in features])
-                                    attention_mask = torch.stack([torch.tensor(feature[1].clone().detach()) for feature in features])
-
-                                    return {
-                                        'input_ids': input_ids,
-                                        'attention_mask': attention_mask
-                                    }
-
-                            # Instantiate custom data collator
-                            test_data_collator = CustomTestDataCollator(tokenizer)
-
-                            # Define training arguments
-                            training_args = TrainingArguments(
-                                per_device_train_batch_size=128,  # Increase batch size
-                                per_device_eval_batch_size=128,    # Increase batch size for evaluation
-                                num_train_epochs=1,               # Reduce number of epochs
-                                learning_rate=5e-5,               # Increase learning rate
-                                output_dir="./output",
-                                evaluation_strategy="epoch",
-                                logging_strategy="epoch",
-                                logging_dir='./logs',
-                                logging_steps=100,
-                                save_strategy="epoch",
-                                save_total_limit=1,
-                                load_best_model_at_end=True,
-                                metric_for_best_model='mse',
-                                greater_is_better=False,
-                                # fp16=True,
-                                weight_decay=0.01,
-                                gradient_accumulation_steps=2,
-                                warmup_steps=200,                 # Decrease warmup steps
-                            )
-
-                            # Create a Trainer instance with the saved model and test dataset
-                            trainer = Trainer(
-                                model=model,
-                                data_collator=test_data_collator,
-                                args=training_args,
-                                eval_dataset=test_dataset,
-                            )
-
-                            # Evaluate the model on the test set
-                            # print("Predicting.......*")
-
-                            predictions = trainer.predict(test_dataset)
-
-                            for i in range(len(predictions[0])):
-                                filtered_sentences["Score"].append(predictions[0][i][0])
+                            if filtered_sentences:
+                                test_encodings = tokenizer(filtered_sentences["Sentenece"], truncation=True, padding=True, max_length=128)
+                                test_encodings_dict = test_encodings.data
+                                test_dataset = torch.utils.data.TensorDataset(
+                                    torch.tensor(test_encodings_dict['input_ids']),
+                                    torch.tensor(test_encodings_dict['attention_mask'])
+                                )
+    
+                                # Define custom data collator
+                                class CustomTestDataCollator(DataCollatorWithPadding):
+                                    def __call__(self, features):
+                                        # Unpack features
+                                        input_ids = torch.stack([torch.tensor(feature[0].clone().detach()) for feature in features])
+                                        attention_mask = torch.stack([torch.tensor(feature[1].clone().detach()) for feature in features])
+    
+                                        return {
+                                            'input_ids': input_ids,
+                                            'attention_mask': attention_mask
+                                        }
+    
+                                # Instantiate custom data collator
+                                test_data_collator = CustomTestDataCollator(tokenizer)
+    
+                                # Define training arguments
+                                training_args = TrainingArguments(
+                                    per_device_train_batch_size=128,  # Increase batch size
+                                    per_device_eval_batch_size=128,    # Increase batch size for evaluation
+                                    num_train_epochs=1,               # Reduce number of epochs
+                                    learning_rate=5e-5,               # Increase learning rate
+                                    output_dir="./output",
+                                    evaluation_strategy="epoch",
+                                    logging_strategy="epoch",
+                                    logging_dir='./logs',
+                                    logging_steps=100,
+                                    save_strategy="epoch",
+                                    save_total_limit=1,
+                                    load_best_model_at_end=True,
+                                    metric_for_best_model='mse',
+                                    greater_is_better=False,
+                                    # fp16=True,
+                                    weight_decay=0.01,
+                                    gradient_accumulation_steps=2,
+                                    warmup_steps=200,                 # Decrease warmup steps
+                                )
+    
+                                # Create a Trainer instance with the saved model and test dataset
+                                trainer = Trainer(
+                                    model=model,
+                                    data_collator=test_data_collator,
+                                    args=training_args,
+                                    eval_dataset=test_dataset,
+                                )
+    
+                                # Evaluate the model on the test set
+                                # print("Predicting.......*")
+    
+                                predictions = trainer.predict(test_dataset)
+    
+                                for i in range(len(predictions[0])):
+                                    filtered_sentences["Score"].append(predictions[0][i][0])
+                                    
+                                sorted_data = sorted(zip(filtered_sentences['Sentenece'], filtered_sentences['sentence_id'], filtered_sentences['Score']), key=lambda x: x[2], reverse=True)
+    
+                                sorted_dict = {
+                                    'Sentenece': [item[0] for item in sorted_data],
+                                    'sentence_id': [item[1] for item in sorted_data],
+                                    'Score': [item[2] for item in sorted_data]
+                                }
+    
+                                output = {
+                                "Sentence": [],
+                                "sentence_id": [],
+                                "Score": []
+                                }
+                                summary = ""
+                                for j in range(len(sorted_dict["Sentenece"])):
+                                    if len(word_tokenize(summary)) < 1000:
+                                        summary += sorted_dict["Sentenece"][j]
+                                        output["Sentence"].append(sorted_dict["Sentenece"][j])
+                                        output["sentence_id"].append(sorted_dict["sentence_id"][j])
+                                        output["Score"].append(sorted_dict["Score"][j])
+    
+                                sorted_summ = sorted(zip(output['Sentence'], output['sentence_id'], output['Score']), key=lambda x: x[1], reverse=False)
+    
+                                sorted_sum_dict = {
+                                    'Sentence': [item[0] for item in sorted_summ],
+                                    'sentence_id': [item[1] for item in sorted_summ],
+                                    'Score': [item[2] for item in sorted_summ]
+                                }
+    
+    
+                                # Concatenate sentences into a string
+                                sorted_sentences = ' '.join(sorted_sum_dict['Sentence'])
+    
                                 
-                            sorted_data = sorted(zip(filtered_sentences['Sentenece'], filtered_sentences['sentence_id'], filtered_sentences['Score']), key=lambda x: x[2], reverse=True)
-
-                            sorted_dict = {
-                                'Sentenece': [item[0] for item in sorted_data],
-                                'sentence_id': [item[1] for item in sorted_data],
-                                'Score': [item[2] for item in sorted_data]
-                            }
-
-                            output = {
-                            "Sentence": [],
-                            "sentence_id": [],
-                            "Score": []
-                            }
-                            summary = ""
-                            for j in range(len(sorted_dict["Sentenece"])):
-                                if len(word_tokenize(summary)) < 1000:
-                                    summary += sorted_dict["Sentenece"][j]
-                                    output["Sentence"].append(sorted_dict["Sentenece"][j])
-                                    output["sentence_id"].append(sorted_dict["sentence_id"][j])
-                                    output["Score"].append(sorted_dict["Score"][j])
-
-                            sorted_summ = sorted(zip(output['Sentence'], output['sentence_id'], output['Score']), key=lambda x: x[1], reverse=False)
-
-                            sorted_sum_dict = {
-                                'Sentence': [item[0] for item in sorted_summ],
-                                'sentence_id': [item[1] for item in sorted_summ],
-                                'Score': [item[2] for item in sorted_summ]
-                            }
-
-
-                            # Concatenate sentences into a string
-                            sorted_sentences = ' '.join(sorted_sum_dict['Sentence'])
-
-                            
-                            # Perform processing for each MDA file
-                            # Here you can call the necessary functions to process the file
-                            # For example:
-                            # preprocess_text(mda_file_path)
-                            # preprocess(cleaned_text, mda_file_path)
-                            # Further processing...
-                            
-                            # After processing, save the generated .txt file inside the system folder
-                            # Create the system folder if it doesn't exist
-                            system_folder = os.path.join(company_path, "Summary_3")
-                            os.makedirs(system_folder, exist_ok=True)
-                            
-                            # Specify the output file path for the generated .txt file
-                            output_file_path = os.path.join(system_folder, f"{mda_file[:-4]}_summary.txt")
-
-                            # Check if the file already exists
-                            if os.path.exists(output_file_path):
-                                print(f"File '{output_file_path}' already exists. It will be overwritten.")
-
-                            # Write the summary to the text file
-                            with open(output_file_path, 'w', encoding='utf-8') as file:
-                                # Write the summary content here
-                                file.write(sorted_sentences)
+                                # Perform processing for each MDA file
+                                # Here you can call the necessary functions to process the file
+                                # For example:
+                                # preprocess_text(mda_file_path)
+                                # preprocess(cleaned_text, mda_file_path)
+                                # Further processing...
+                                
+                                # After processing, save the generated .txt file inside the system folder
+                                # Create the system folder if it doesn't exist
+                                system_folder = os.path.join(company_path, "Summary_3")
+                                os.makedirs(system_folder, exist_ok=True)
+                                
+                                # Specify the output file path for the generated .txt file
+                                output_file_path = os.path.join(system_folder, f"{mda_file[:-4]}_summary.txt")
+    
+                                # Check if the file already exists
+                                if os.path.exists(output_file_path):
+                                    print(f"File '{output_file_path}' already exists. It will be overwritten.")
+    
+                                # Write the summary to the text file
+                                with open(output_file_path, 'w', encoding='utf-8') as file:
+                                    # Write the summary content here
+                                    file.write(sorted_sentences)
+                            else:
+                                print(f"Skipping empty file: {mda_file_path}")
